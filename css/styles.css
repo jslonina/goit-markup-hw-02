@@ -37,7 +37,6 @@ body {
 }
 
 .about-head-description {
-    font-weight: 400;
     font-size: 14px;
     line-height: 1.714;
     color: #757575;
@@ -57,7 +56,6 @@ body {
 }
 
 .staff-position {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.187;
     color: #757575;
@@ -92,7 +90,6 @@ background-color: #2196F3;
 }
 
 .photo-describe {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.875;
     color: #757575;
@@ -120,14 +117,12 @@ footer {
 
 .street {
     color: #FFFFFF;
-    font-weight: 400;
     font-size: 14px;
     line-height: 1.714;
 }
 .contact {
     text-decoration: none;
     color:#757575;
-    font-weight: 400;
     font-size: 14px;
     line-height: 2;
 }
