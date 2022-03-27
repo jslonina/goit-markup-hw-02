@@ -1,0 +1,141 @@
+body { 
+    font-family: roboto;
+    color: #212121;
+}
+
+/* -----------------header---------------*/
+.logo-link-header {
+    text-decoration: none;
+    color: #212121;
+}
+
+
+.navigation-link {
+    text-decoration: none;
+    color: #212121;
+}
+
+.navigation-link:hover {
+    color:#2196F3;
+}
+
+.title {
+    background-color: #2F303A;
+}
+
+.title-item {
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1.364;
+    color: #FFFFFF;
+}
+
+.about-head {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.143;
+}
+
+.about-head-description {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.714;
+    color: #757575;
+}
+
+.work,
+.staff {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.167;
+}
+
+.staff-name {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.187;
+}
+
+.staff-position {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.187;
+    color: #757575;
+}
+/*----------------------main-----------------*/
+
+.portfolio-btn {
+    font-family: Roboto, sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.625;
+}
+
+.title-btn {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.875;
+    color: #FFFFFF;
+    background-color: #2196F3;;
+}
+
+.portfolio-btn:hover,
+.portfolio-btn:focus {
+color: #FFFFFF;
+background-color: #2196F3;
+}
+
+.photo-head {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 2;
+}
+
+.photo-describe {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.875;
+    color: #757575;
+}
+
+
+/*---------------------footer---------------------*/
+footer {
+    background-color: #2F303A;;
+}
+
+.logo-link-footer {
+    text-decoration: none;
+    color:#FFFFFF;
+}
+
+.logo {
+    color:#2196F3;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.192;
+   text-decoration: none;
+}
+
+
+.street {
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.714;
+}
+.contact {
+    text-decoration: none;
+    color:#757575;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 2;
+}
+
+.contact:hover {
+    color:#2196F3;
+}
+
+.button {
+    cursor: pointer;
+}
