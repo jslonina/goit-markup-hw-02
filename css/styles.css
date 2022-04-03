@@ -3,7 +3,9 @@
     --main-color: #212121;
     --second-color: #2196F3;
     --third-color:#757575;
+    --four-color:#FFFFFF;
     --background-color:#2F303A;
+
 }
 
 body { 
@@ -28,7 +30,7 @@ body {
     font-weight: 900;
     font-size: 44px;
     line-height: 1.364;
-    color: #FFFFFF;
+    color: var(--four-color);
 }
 
 .about-head {
@@ -55,13 +57,13 @@ body {
     font-weight: 700;
     font-size: 16px;
     line-height: 1.875;
-    color: #FFFFFF;
+    color: var(--four-color);
     background-color: var(--second-color);
 }
 
 .portfolio-btn:hover,
 .portfolio-btn:focus {
-color: #FFFFFF;
+color: var(--four-color);
 background-color: var(--second-color);
 }
 
@@ -115,7 +117,7 @@ footer,
 }
 
 .logo-link-footer { 
-    color:#FFFFFF;
+    color:var(--four-color);
 }
 
 .logo {
@@ -126,7 +128,7 @@ footer,
 }
 
 .street {
-    color: #FFFFFF;
+    color: var(--four-color);
     font-size: 14px;
     line-height: 1.714;
 }
